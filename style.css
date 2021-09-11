@@ -151,3 +151,12 @@ body {
   color: rgb(125, 186, 255);
   transition: all 0.4s ease-in-out;
 }
+
+@media screen and (max-width: 950px) {
+  .circles{
+    width: 50%;
+  }
+  .wrapper{
+    height: 60vh;
+  }
+}
